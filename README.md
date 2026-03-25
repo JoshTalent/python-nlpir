@@ -6,7 +6,6 @@ NLPIR is a powerful tool for Chinese segmentation. This program supported Window
 
 **Current Version: v3.0**
 
-
 # Change Log
 ### Version 3.0
 * Uprgrade NLPIR to NPLIR2015(v20141230).
