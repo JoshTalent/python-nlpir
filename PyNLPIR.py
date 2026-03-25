@@ -8,6 +8,7 @@
 import NLPIR
 import platform
 
+
 class Constants(object):
     class POS(object):
         POS_MAP_NUMBER = NLPIR.POS_MAP_NUMBER
