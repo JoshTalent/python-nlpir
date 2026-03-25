@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 tar -zxf ./dependences/swig-*.tar.gz
 cp ./dependences/pcre-*.tar.gz ./swig-*
 cd ./swig-*
