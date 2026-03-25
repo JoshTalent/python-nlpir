@@ -5,6 +5,7 @@ from distutils.core import setup, Extension
  
 NLPIR_module = Extension('_NLPIR',sources=['NLPIR_wrap.cxx'], libraries = ['NLPIR'])
 
+
 setup(name = 'NLPIR',
     version = '2.0',
     author = 'Killua',
