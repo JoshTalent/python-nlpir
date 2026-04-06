@@ -4,6 +4,7 @@ This open source project is a python wrapper for NLPIR.
 NLPIR is a powerful tool for Chinese segmentation. This program supported Windows and Linux, both 32bit and 64bit platform. 
 
 
+
 **Current Version: v3.0**
 
 # Change Log
@@ -23,6 +24,7 @@ NLPIR is a powerful tool for Chinese segmentation. This program supported Window
 * Code constructure adjustment.
 * Upgrade NLPIR2013 core library.
 * Add installation scripts for each platform.
+
 
 
 # Installation
