@@ -8,4 +8,5 @@ cd ./swig-*
 echo 'Install swig...'
 ./configure
 make
+
 make install
