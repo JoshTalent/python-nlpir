@@ -20,3 +20,4 @@ if __name__ == '__main__':
         print 'Add (%s) to user dictionary failed.' % word
 
     exit()
+    
