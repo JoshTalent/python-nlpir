@@ -15,4 +15,5 @@ if __name__ == '__main__':
     filename = './resources/text.txt'
     print get_file_keywords(filename)
 
+    
     exit()
