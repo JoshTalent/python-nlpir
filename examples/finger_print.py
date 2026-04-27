@@ -3,8 +3,6 @@
 
 from PyNLPIR import *
 import os
-
-
 if __name__ == '__main__':
 
     init_dir = os.path.join(os.path.dirname(__file__), os.path.pardir)
