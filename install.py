@@ -3,6 +3,7 @@ import shutil
 import os
 import re
 
+
 OS_VERSION = platform.system()
 OS_BITS = platform.architecture()[0]
 LIB_NLPIR = 'libNLPIR.so' if OS_VERSION == 'Linux' else 'NLPIR.dll'
