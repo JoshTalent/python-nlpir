@@ -8,6 +8,7 @@ _NLPIR.so
 build/
 
 *.pyc
+
 .idea/
 
 
