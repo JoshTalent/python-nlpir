@@ -8,7 +8,6 @@
 import NLPIR
 import platform
 
-
 class Constants(object):
     class POS(object):
         POS_MAP_NUMBER = NLPIR.POS_MAP_NUMBER
@@ -23,7 +22,6 @@ class Constants(object):
         UTF8_CODE = NLPIR.UTF8_CODE
         BIG5_CODE = NLPIR.BIG5_CODE
         GBK_FANTI_CODE = NLPIR.GBK_FANTI_CODE
-
 
 def init(init_dir='.', encoding=Constants.CodeType.GBK_CODE):
     """
