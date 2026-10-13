@@ -15,7 +15,6 @@ def is_swig_installed():
             return True
 
 
-
 def check_installers():
     swig_pattern = re.compile(r'^swig-(?P<swig_version>[\d\.]+)')
     pcre_pattern = re.compile(r'^pcre-(?P<pcre_version>[\d\.]+)')
