@@ -14,7 +14,6 @@ def is_swig_installed():
         if os.path.isdir(cmdpath) and 'swig' in os.listdir(cmdpath):
             return True
             
-
 def check_installers():
     swig_pattern = re.compile(r'^swig-(?P<swig_version>[\d\.]+)')
     pcre_pattern = re.compile(r'^pcre-(?P<pcre_version>[\d\.]+)')
